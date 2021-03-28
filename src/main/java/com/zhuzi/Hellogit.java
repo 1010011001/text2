@@ -3,9 +3,11 @@ package com.zhuzi;
 public class Hellogit {
 
 	public static void main(String[] args) {
-		System.out.println("ÄãºÃ");
-		System.out.println("ÄãºÃ1");
-		System.out.println("·ÖÖ§´´½¨");
+		System.out.println("Ã„Ã£ÂºÃƒ");
+		System.out.println("Ã„Ã£ÂºÃƒ1");
+		System.out.println("Â·Ã–Ã–Â§Â´Â´Â½Â¨");
+		System.out.println("åœ¨çº¿æ·»åŠ ");
+		
 
 	}
 
